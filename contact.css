@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    justify-content: center;
+    
+}
+.input{
+    position: relative;
+    right:-50%;
+}
+@media (min-width:1680px){
+    body{
+        width:70%;
+    }
+}
+h1{
+    text-shadow: 1px 1px blueviolet;
+}
+p{
+    text-shadow:1px 1px blue;
+    font-size: 25px;
+}

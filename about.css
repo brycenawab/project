@@ -1,0 +1,28 @@
+.boxing{
+    display: flex;
+    text-shadow: 1px 1px 2px pink;
+}
+.guitar{
+    display: flex;
+    text-shadow: #FC0 1px 0 10px;
+}
+h2{
+    font-weight: bold;
+    text-shadow:  0 0 1em blue;
+
+}
+h1{
+    text-shadow: 1px 1px 2px red
+}
+.Meditation{
+display: flex;
+text-shadow: red 1px 1px;
+}
+body{
+    background-color: beige;
+}
+ul{
+    display: flex;
+    gap:20px;
+    font-size: larger;
+}
