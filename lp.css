@@ -1,0 +1,33 @@
+.one{
+    display:flex;
+}
+.box{
+    height: vw;
+    width: 50vw;
+    border:black solid
+}
+h1{
+    font-weight: bold;
+    color:red
+
+}
+h2{
+    color:palevioletred;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: wheat;
+}
+.image{
+    align-items: center;
+}
+h3{
+    color:palevioletred;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul{
+    display: flex;
+    gap:20px;
+    font-size: larger;
+}

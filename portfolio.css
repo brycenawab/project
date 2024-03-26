@@ -1,0 +1,23 @@
+.one{
+    display: flex;
+}
+.grocery{
+    display: flex;
+}
+.zoo{
+    display: flex;
+}
+h2{
+    text-shadow: red 2px 1px;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-shadow: 1px 1px blueviolet;
+}
+ul{
+    display: flex;
+    gap:20px;
+    font-size: larger;
+}
